@@ -1,4 +1,5 @@
 Project Title: Amazon Prime Video Content Analysis Dashboard
+
 OBJECTIVE:
 To create an interactive Tableau dashboard that visualizes and analyzes the distribution and characteristics of shows on Amazon Prime Video, providing insights into show ratings, genres, types, and their geographical distribution.
 
