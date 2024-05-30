@@ -1,16 +1,16 @@
 Project Title: Amazon Prime Video Content Analysis Dashboard
-Objective:
+OBJECTIVE:
 To create an interactive Tableau dashboard that visualizes and analyzes the distribution and characteristics of shows on Amazon Prime Video, providing insights into show ratings, genres, types, and their geographical distribution.
 
-Business Problem:
+BUSINESS PROBLEM:
 Amazon Prime Video has a vast library of shows and movies that span multiple genres, countries, and ratings. Analyzing this data can help understand content trends, viewer preferences, and geographical distribution, aiding in content strategy and decision-making.
 
-Task:
+TASK:
 Collect, clean, and prepare Amazon Prime Video content data.
 Develop an interactive Tableau dashboard to visualize key aspects of the data.
 Highlight distribution of shows by country, release year, type, genre, and ratings.
 
-Action:
+ACTION:
 
 Data Collection and Preparation:
 
@@ -37,7 +37,7 @@ Developed a pie chart to illustrate the proportion of TV shows versus movies in 
 Top 10 Genres:
 Generated a bar chart to display the top 10 genres by the number of shows, highlighting the most prevalent genres such as Drama, Comedy, and Documentary.
 
-Results:
+RESULTS:
 
 Geographical Distribution:
 Identified countries with the highest number of available shows, providing insights into regional content availability.
@@ -54,12 +54,12 @@ Showed the most popular genres, guiding content acquisition and production strat
 Content Type Proportion:
 Illustrated the balance between TV shows and movies, informing catalog management.
 
-Impact:
+IMPACT:
 Strategic Content Decisions: Provided data-driven insights to inform content acquisition, production, and regional distribution strategies.
 Viewer Engagement: Enhanced understanding of viewer preferences through analysis of ratings and genres, aiding in personalized recommendations.
 Market Expansion: Identified opportunities for content expansion in underrepresented regions and genres.
 
-Skills Used:
+SKILLS USED:
 Data Cleaning and Preparation: Ensured data accuracy and consistency.
 Tableau: Developed an interactive and visually appealing dashboard.
 Data Analysis and Visualization: Extracted and communicated key insights from the data.
